@@ -1,0 +1,31 @@
+_repo: The-New-Guide-to-Knitting--amp--Crochet_35582
+_version: 0.1.0
+alternative_title: The New Guide to Knitting and Crochet
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cooper, Marie Jane
+    gutenberg_agent_id: '37766'
+    url: http://www.gutenberg.org/2009/agents/37766
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Crafts
+gutenberg_issued: '2011-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crocheting -- Patterns'
+- !lcc 'TT'
+- !lcsh 'Crocheting'
+- !lcsh 'Knitting -- Patterns'
+- !lcsh 'Knitting'
+title: The New Guide to Knitting & Crochet
+url: http://www.gutenberg.org/ebooks/35582
